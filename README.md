@@ -2,7 +2,7 @@
 
 Iris is a platform for growth, change, and empowerment for minorities who want to work in technological disciplines. The app is designed to connect members of underrepresented BIPOC (Black, Indegegenous, and People of Color) communities with people in their industry to chat, schedule resume reviews, and build real connections for career development. The features of Iris are designed to steer clear of the mechanical, surface level interactions often present in other profesional networking applications. Iris is for real job candidates that want to progress in their career and for real recruiters that want to hire hard-working and curious candidates.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/OB6ffuNIKOg)
+[![Video Demo](https://img.youtube.com/vi/OB6ffuNIKOg/0.jpg)](https://youtu.be/OB6ffuNIKOg)
 
 
 
